@@ -159,4 +159,29 @@ Dalam JavaScript, statements atau pernyataan adalah instruksi yang dieksekusi ol
 
 ![statement4](https://github.com/IanSevillano/try/assets/168709776/f116b0d4-4643-4632-9609-c8b7a3d14fc7)
 
-<h2></h2>
+<h2>2)Syntax</h2>
+
+![syntaxjs1](https://github.com/IanSevillano/try/assets/168709776/80d9e07d-d0e2-45f8-b6b6-418f000c69f6)
+
+![syntaxjs2](https://github.com/IanSevillano/try/assets/168709776/e420fc76-e00c-4df6-ab9d-1a0776a99d30)
+
+Sintaks dalam JavaScript adalah aturan yang menentukan bagaimana kode dalam JavaScript yang ditulis dan dideskripsikan oleh browser. Sintaks melibatkan beberapa komponen utama:<br>
+
+Selektor: Menunjuk elemen HTML yang berupa nama tag, class, ID, atau bahkan kombinasi yang lebih kompleks.<br>
+Blok Deklarasi: Blok deklarasi dibuka dengan kurung kurawal { dan ditutup dengan }. Di dalam blok ini, dapat menuliskan satu atau lebih deklarasi.<br>
+Deklarasi: Setiap deklarasi terdiri dari pasangan properti dan nilai, dipisahkan oleh titik dua :. Properti adalah aspek dari elemen yang dapat ubah, seperti warna, lebar, atau margin. Nilai adalah pengaturan yang ingin terapkan pada properti tersebut.<br>
+Titik Koma: Setiap deklarasi diakhiri dengan titik koma ; untuk memisahkannya dari deklarasi berikutnya dalam blok.<br>
+
+<h2>3)Variable</h2>
+
+![variable1](https://github.com/IanSevillano/try/assets/168709776/87fb22cc-ec1e-4735-b0ea-c6af9fa66c86)
+
+![variable2](https://github.com/IanSevillano/try/assets/168709776/f3043916-4548-4f76-9561-6b3c057e2542)
+
+Variabel adalah wadah yang digunakan untuk menyimpan data yang dapat berubah-ubah selama eksekusi program. Variabel memungkinkan untuk memberi nama pada data sehingga dapat dengan mudah merujuk dan mengelola data tersebut dalam bentuk kode . Berikut adalah beberapa poin penting tentang variabel dalam JavaScript:<br>
+
+![variable3](https://github.com/IanSevillano/try/assets/168709776/52e3f20b-e07a-4645-a712-fcc6b08b6aa5)
+
+![variable4](https://github.com/IanSevillano/try/assets/168709776/ca3d2a22-fcf1-4efa-9ce5-3d7350320432)
+
+Deklarasi Variabel: Sebelum menggunakan variabel harus mendeklarasikannya menggunakan kata kunci var, let, atau const. contoh diatas adalah menggunakan let.
