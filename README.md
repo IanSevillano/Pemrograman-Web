@@ -1,4 +1,4 @@
-HTML
+<h1>HTML</h1>
 ![HTML intro](https://github.com/IanSevillano/try/assets/168709776/0c1d27f1-f34c-4464-863f-e5a4b17cd145)
 HTML, atau HyperText Markup Language, adalah bahasa markup yang digunakan untuk membuat struktur dan konten pada halaman web. HTML menggunakan tag untuk mendefinisikan elemen-elemen yang berbeda dalam dokumen. Berikut adalah beberapa tag HTML dasar dan penjelasannya:
 !DOCTYPE html: Mendeskripsikan versi HTML yang digunakan dalam dokumen.
